@@ -2,7 +2,7 @@
 
 **IT-tekniker based in Gothenburg 🇸🇪**
 
-I currently work as an IT Technician, where I spend my time managing Microsoft 365 environments and troubleshooting Linux servers. I’m a big believer in "learning by doing," which is why I spend my free time building out my homelab and learning how to automate the boring parts of my job using Python.
+I currently work as an IT Technician, where I spend my time managing Microsoft 365 environments and troubleshooting. I’m a big believer in "learning by doing," which is why I spend my free time building out my homelab and learning how to automate the boring parts of my job using Python.
 
 My goal is to keep growing my skills in Linux administration and move closer to a Systems Administration or DevOps-focused role.
 
