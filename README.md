@@ -1,21 +1,21 @@
-# Hi, I'm Aaron 👋
+Aaron Sofonias
+IT technician · Gothenburg, Sweden 🇸🇪
 
-**IT-technician based in Gothenburg 🇸🇪**
+I work as an IT technician, primarily with Microsoft 365 environments, client systems, and day-to-day troubleshooting. Alongside my job, I spend time improving my Linux skills and getting more comfortable working closer to infrastructure and automation.
 
-I currently work as an IT Technician, where I spend my time managing Microsoft 365 environments and troubleshooting. I’m a big believer in "learning by doing," which is why I spend my free time building out my homelab and learning how to automate the boring parts of my job using Python.
+Outside of work, I run a small homelab where I experiment with virtualization, containers, monitoring, and automation. I use it mainly to understand how systems behave in practice and to try things I don’t always get to touch in production.
 
-My goal is to keep growing my skills in Linux administration and move closer to a Systems Administration or DevOps-focused role.
+My longer-term goal is to move toward a system administration or infrastructure-focused role, with an increasing focus on Linux and automation.
 
-### 🛠 Tech I Use Daily
-- **OS:** Windows, Linux (Ubuntu/Debian), macOS
-- **Platforms:** Microsoft 365 (Azure AD, Intune, Exchange Online, Teams)
-- **Virtualization:** Proxmox, Hyper-V, Docker, LXC (in my Homelab)
-- **Scripting:** Python, PowerShell
+🛠 Tech I Use Regularly
+OS: Windows, Linux (Ubuntu/Debian), macOS  
+Platforms: Microsoft 365 (Azure AD, Intune, Exchange Online, Teams)  
+Virtualization: Proxmox, Hyper-V, Docker, LXC  
+Scripting: Python, PowerShell  
 
-### 🚀 Currently Learning & Building
-- **Bash Scripting:** Learning to write shell scripts to automate Linux server maintenance.
-- **Python Automation:** Building a Proxmox monitoring tool using the Proxmox API.
-- **Boot.dev:** Working through the Backend/DevOps curriculum.
+🚀 Currently Learning & Building
+- Bash scripting for basic Linux automation and maintenance
+- Python automation, including a small Proxmox monitoring project using the API
+- Completing courses on boot.dev (Linux, Git, Python, Backend/DevOps track)
 
----
-📫 Reach me at: aaron.sofonias@outlook.com
+📫 Contact: aaron.sofonias@outlook.com
