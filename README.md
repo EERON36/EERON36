@@ -9,14 +9,28 @@ My longer-term goal is to move toward a system administration or infrastructure-
 
 ##  Tech I Use Regularly
 - **Operating Systems:** Windows, Linux (Ubuntu/Debian), macOS
-- **Platforms:** Microsoft 365 (Azure AD, Intune, Exchange Online, Teams)
+- **Platforms:** Microsoft 365 (Entra ID, Intune, Exchange Online, Teams)
 - **Virtualization & Containers:** Proxmox, Hyper-V, Docker, LXC
 - **Scripting & Automation:** Python, PowerShell
 
-##  Currently Learning & Building
-- Bash scripting for basic Linux automation and maintenance
-- Python automation, including a small Proxmox monitoring project using the Proxmox API
-- Completing courses on boot.dev (Linux, Git, Python, Backend/DevOps track)
+## Training & Certifications
+
+**Microsoft Certified: Azure Fundamentals (AZ-900)**
+
+Completed Boot.dev courses — each badge links to the course certificate:
+
+[![Boot.dev: Linux course completed](https://img.shields.io/badge/Boot.dev-Linux-475569?style=flat)](https://www.boot.dev/certificates/ece8f068-bb81-4dfd-98cc-c6a3232e3c7f)
+[![Boot.dev: Git course completed](https://img.shields.io/badge/Boot.dev-Git-475569?style=flat)](https://www.boot.dev/certificates/75a155d0-c5e2-45bb-914e-b143c4da80df)
+[![Boot.dev: Python for Beginners course completed](https://img.shields.io/badge/Boot.dev-Python-475569?style=flat)](https://www.boot.dev/certificates/a26980db-584b-44a8-9609-36c4dca4864a)
+[![Boot.dev: Object Oriented Programming in Python course completed](https://img.shields.io/badge/Boot.dev-Python%20OOP-475569?style=flat)](https://www.boot.dev/certificates/853841ae-9e96-4135-a164-eb1fd8a5eb7b)
+
+[View my Boot.dev profile](https://www.boot.dev/u/mistycoffee88)
+
+## Currently Learning & Building
+
+- Studying for Microsoft Azure Administrator (AZ-104)
+- Practising Python and PowerShell through small IT and automation exercises
+- Developing my Linux and infrastructure skills in my homelab
 
 ##  Contact
 - aaron.sofonias@outlook.com
