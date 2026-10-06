@@ -1,17 +1,16 @@
 # Aaron Sofonias
-IT technician · Gothenburg, Sweden 
 
-I work as an IT technician, primarily with Microsoft 365 environments, client systems, and day-to-day troubleshooting. Alongside my job, I spend time improving my Linux skills and getting more comfortable working closer to infrastructure and automation.
+IT technician · Gothenburg, Sweden
 
-Outside of work, I run a small homelab where I experiment with virtualization, containers, monitoring, and automation. I use it mainly to understand how systems behave in practice and to try things I don’t always get to touch in production.
+I’m an IT technician with over three years of professional IT experience, supporting Microsoft 365 environments, endpoints, and user access across multiple customer environments. I enjoy troubleshooting, understanding how systems work, and finding ways to make everyday tasks easier.
 
-My longer-term goal is to move toward a system administration or infrastructure-focused role, with an increasing focus on Linux and automation.
+Outside work, I run a homelab for Linux systems, containers, and self-hosted GitHub Actions runners, and practise automation with Python and PowerShell. I’m working toward a system administration or infrastructure role, with a focus on Linux and automation.
 
-##  Tech I Use Regularly
-- **Operating Systems:** Windows, Linux (Ubuntu/Debian), macOS
-- **Platforms:** Microsoft 365 (Entra ID, Intune, Exchange Online, Teams)
-- **Virtualization & Containers:** Proxmox, Hyper-V, Docker, LXC
-- **Scripting & Automation:** Python, PowerShell
+## Technical Experience
+
+- **Work:** Microsoft 365, Entra ID, Active Directory, Intune, Exchange Online, Teams, and Windows/macOS troubleshooting
+- **Homelab:** Linux (Ubuntu/Debian), Proxmox, Hyper-V, Docker, and LXC
+- **Scripting:** Python, PowerShell, and basic Bash
 
 ## Training & Certifications
 
@@ -26,11 +25,12 @@ Completed Boot.dev courses — each badge links to the course certificate:
 
 [View my Boot.dev profile](https://www.boot.dev/u/mistycoffee88)
 
-## Currently Learning & Building
+## Currently Learning
 
-- Studying for Microsoft Azure Administrator (AZ-104)
-- Practising Python and PowerShell through small IT and automation exercises
-- Developing my Linux and infrastructure skills in my homelab
+- Microsoft Azure administration (AZ-104)
+- Python and PowerShell for practical IT automation
+- Linux system administration through my homelab
 
-##  Contact
+## Contact
+
 - aaron.sofonias@outlook.com
