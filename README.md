@@ -26,14 +26,12 @@ A two-node Proxmox cluster on mini PCs with shared NAS storage, running over 15 
 
 **Microsoft Certified: Azure Fundamentals (AZ-900)**
 
-Completed Boot.dev courses – each badge links to the course certificate:
+**Boot.dev courses** ([profile](https://www.boot.dev/u/mistycoffee88)):
 
-[![Boot.dev: Linux course completed](https://img.shields.io/badge/Boot.dev-Linux-475569?style=flat)](https://www.boot.dev/certificates/ece8f068-bb81-4dfd-98cc-c6a3232e3c7f)
-[![Boot.dev: Git course completed](https://img.shields.io/badge/Boot.dev-Git-475569?style=flat)](https://www.boot.dev/certificates/75a155d0-c5e2-45bb-914e-b143c4da80df)
-[![Boot.dev: Python for Beginners course completed](https://img.shields.io/badge/Boot.dev-Python-475569?style=flat)](https://www.boot.dev/certificates/a26980db-584b-44a8-9609-36c4dca4864a)
-[![Boot.dev: Object Oriented Programming in Python course completed](https://img.shields.io/badge/Boot.dev-Python%20OOP-475569?style=flat)](https://www.boot.dev/certificates/853841ae-9e96-4135-a164-eb1fd8a5eb7b)
-
-[View my Boot.dev profile](https://www.boot.dev/u/mistycoffee88)
+- [Linux](https://www.boot.dev/certificates/ece8f068-bb81-4dfd-98cc-c6a3232e3c7f)
+- [Git](https://www.boot.dev/certificates/75a155d0-c5e2-45bb-914e-b143c4da80df)
+- [Python for Beginners](https://www.boot.dev/certificates/a26980db-584b-44a8-9609-36c4dca4864a)
+- [Object Oriented Programming in Python](https://www.boot.dev/certificates/853841ae-9e96-4135-a164-eb1fd8a5eb7b)
 
 ## Currently Learning
 
